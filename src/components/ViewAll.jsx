@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 
+
 const ViewAll = () => {
   return (
     <div>
@@ -32,7 +33,7 @@ const ViewAll = () => {
     </tr>
     <tr>
     <td>Jacob</td>
-      <td colspan="2">Larry the Bird</td>
+      <td>Larry the Bird</td>
       <td>678</td>
     </tr>
   </tbody>
